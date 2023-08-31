@@ -1,4 +1,5 @@
-![QuixByte](./quixbyte_full_light.svg#gh-dark-mode-only)![QuixByte](./quixbyte_full.svg#gh-light-mode-only)
+<img src="/profile/quixbyte_full_light.svg#gh-dark-mode-only" alt="QuixByte" width="100%"/>
+<img src="/profile/quixbyte_full.svg#gh-light-mode-only" alt="QuixByte" width="100%"/>
 
 ```
 -- About
