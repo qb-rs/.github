@@ -1,5 +1,5 @@
-<img src="/profile/quixbyte_full_light.svg#gh-dark-mode-only" alt="QuixByte" width="100%"/>
-<img src="/profile/quixbyte_full.svg#gh-light-mode-only" alt="QuixByte" width="100%"/>
+<img src="/profile/quixbyte_full_light.svg#gh-dark-mode-only" alt="QuixByte" width="400px"/>
+<img src="/profile/quixbyte_full.svg#gh-light-mode-only" alt="QuixByte" width="400px"/>
 
 ```
 -- About
