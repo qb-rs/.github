@@ -1,11 +1,6 @@
-```
-  ___        _      ____        _
- / _ \ _   _(___  _| __ ) _   _| |_ ___
-| | | | | | | \ \/ |  _ \| | | | __/ _ \
-| |_| | |_| | |>  <| |_) | |_| | ||  __/
- \__\_\\__,_|_/_/\_|____/ \__, |\__\___|
-                          |___/
+![QuixByte](./quixbyte_full_light.svg#gh-dark-mode-only)![QuixByte](./quixbyte_full.svg#gh-light-mode-only)
 
+```
 -- About
 
 QuixByte is an opensource file service, which allows
