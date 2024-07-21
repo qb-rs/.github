@@ -16,3 +16,5 @@ to join this project as a maintainer make sure to contribute
 something meaningful once or twice and then get in touch.
 (lucasbirkert@gmail.com)
 ```
+
+Take a look at the [monorepo](https://github.com/qb-rs/qb).
